@@ -1,6 +1,6 @@
 # Hi, I'm Otsho 👋
 
-**Game Developer | C++ | OpenGL | Neovim Enthusiast**
+**Game Developer | C++ | OpenGL | Neovim**
 
 Welcome to my GitHub profile! I love building games, graphics systems, and tools.
 
