@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I love building games, graphics systems, and tools
 ## 🔧 Technologies I Use
 - **C++**, **OpenGL**, **GLM**
 - **Neovim** (my main editor)
-- **Modern CMake**
+- **VCPKG**, **CMake**
 - **Game Engines / Physics Libraries**
 
 ## 🎯 What I'm Working On
