@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Otsho 👋
 
-<!--
-**Otsho-PR0/Otsho-PR0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Game Developer | C++ | OpenGL | Neovim Enthusiast**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I love building games, graphics systems, and tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies I Use
+- **C++**, **OpenGL**, **GLM**
+- **Neovim** (my main editor)
+- **Modern CMake**
+- **Game Engines / Physics Libraries**
+
+## 🎯 What I'm Working On
+- Building small game engines
+- Experimenting with rendering techniques
+- Improving dev workflow with Neovim
+
+## 📫 Contact
+Feel free to reach out or explore my repositories!
+
+Thanks for visiting!
